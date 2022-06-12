@@ -28,11 +28,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "9922005"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "306a157c9e154a9ffee551fc13791671"
     },
     "HELLBOT_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
@@ -48,7 +48,7 @@
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "5422087935:AAF38txih1FDjSRIHHeMHlhGBn3T_pFwqac"
     }
   },
   "addons": [{
